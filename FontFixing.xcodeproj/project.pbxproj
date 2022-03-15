@@ -10,7 +10,6 @@
 		14DF28A127DEDBDE00B66FC5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DF28A027DEDBDE00B66FC5 /* AppDelegate.swift */; };
 		14DF28A327DEDBDF00B66FC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14DF28A227DEDBDF00B66FC5 /* Assets.xcassets */; };
 		14DF28A627DEDBDF00B66FC5 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 14DF28A427DEDBDF00B66FC5 /* MainMenu.xib */; };
-		14DF28AE27DEDD7900B66FC5 /* Storage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DF28AD27DEDD7900B66FC5 /* Storage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,7 +18,6 @@
 		14DF28A227DEDBDF00B66FC5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14DF28A527DEDBDF00B66FC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		14DF28A727DEDBDF00B66FC5 /* FontFixing.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FontFixing.entitlements; sourceTree = "<group>"; };
-		14DF28AD27DEDD7900B66FC5 /* Storage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +51,6 @@
 			isa = PBXGroup;
 			children = (
 				14DF28A027DEDBDE00B66FC5 /* AppDelegate.swift */,
-				14DF28AD27DEDD7900B66FC5 /* Storage.swift */,
 				14DF28A227DEDBDF00B66FC5 /* Assets.xcassets */,
 				14DF28A427DEDBDF00B66FC5 /* MainMenu.xib */,
 				14DF28A727DEDBDF00B66FC5 /* FontFixing.entitlements */,
@@ -132,7 +129,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				14DF28A127DEDBDE00B66FC5 /* AppDelegate.swift in Sources */,
-				14DF28AE27DEDD7900B66FC5 /* Storage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
